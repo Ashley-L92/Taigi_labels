@@ -6,7 +6,8 @@ import base64
 
 # === CONFIG ===
 HUGGINGFACE_API_KEY = st.secrets["HUGGINGFACE_API_KEY"]
-HUGGINGFACE_API_URL = "https://api-inference.huggingface.co/models/keith1009/taigi-tts"
+HUGGINGFACE_API_URL = "https://api-inference.huggingface.co/models/ylac/taigi-tts"
+
 
 # === FUNCTION ===
 
